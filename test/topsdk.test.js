@@ -21,9 +21,9 @@ describe('test/topsdk.test.js', () => {
       .expect(200);
   });
 
-  it('should GET /execute', () => {
-    return app.httpRequest()
-      .get('/execute')
-      .expect(200);
-  });
+  // it('should GET /execute', () => {
+  //   return app.httpRequest()
+  //     .get('/execute')
+  //     .expect(200);
+  // });
 });

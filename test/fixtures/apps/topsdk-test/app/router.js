@@ -4,6 +4,6 @@ module.exports = app => {
   const { router, controller } = app;
 
   router.get('/', controller.home.index);
-  router.get('/execute', controller.home.execute);
+  // router.get('/execute', controller.home.execute);
 
 };

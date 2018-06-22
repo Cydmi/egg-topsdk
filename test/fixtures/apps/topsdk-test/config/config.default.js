@@ -3,8 +3,8 @@
 exports.keys = '123456';
 exports.topsdk = {
   client: {
-    appkey: '',
-    appsecret: '',
+    appkey: '1',
+    appsecret: '1',
     url: 'http://gw.api.taobao.com/router/rest',
   },
 
