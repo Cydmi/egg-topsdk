@@ -1,6 +1,6 @@
 {
   "name": "egg-topsdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "eggPlugin": {
     "name": "topsdk"
@@ -8,7 +8,8 @@
   "keywords": [
     "egg",
     "eggPlugin",
-    "egg-plugin"
+    "egg-plugin",
+    "淘宝客"
   ],
   "dependencies": {
     "ali-topsdk": "^2.0.5"

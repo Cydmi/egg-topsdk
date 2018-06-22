@@ -7,14 +7,16 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
+ali-topsdk for eggjs
+
 [npm-image]: https://img.shields.io/npm/v/egg-topsdk.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-topsdk
-[travis-image]: https://img.shields.io/travis/eggjs/egg-topsdk.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/Cydmi/egg-topsdk.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg-topsdk
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-topsdk.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-topsdk?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/Cydmi/egg-topsdk.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/Cydmi/egg-topsdk?branch=master
 [david-image]: https://img.shields.io/david/eggjs/egg-topsdk.svg?style=flat-square
-[david-url]: https://david-dm.org/eggjs/egg-topsdk
+[david-url]: https://david-dm.org/Cydmi/egg-topsdk
 [snyk-image]: https://snyk.io/test/npm/egg-topsdk/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-topsdk
 [download-image]: https://img.shields.io/npm/dm/egg-topsdk.svg?style=flat-square
