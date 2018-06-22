@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-topsdk.git"
+    "url": "git+https://github.com/cydmi/egg-topsdk"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/cydmi/egg-topsdk/issues"
   },
   "homepage": "https://github.com/eggjs/egg-topsdk#readme",
   "author": "",
