@@ -12,10 +12,10 @@ ali-topsdk for eggjs
 [npm-image]: https://img.shields.io/npm/v/egg-topsdk.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/egg-topsdk
 [travis-image]: https://img.shields.io/travis/Cydmi/egg-topsdk.svg?style=flat-square
-[travis-url]: https://travis-ci.org/eggjs/egg-topsdk
+[travis-url]: https://travis-ci.org/Cydmi/egg-topsdk
 [codecov-image]: https://img.shields.io/codecov/c/github/Cydmi/egg-topsdk.svg?style=flat-square
 [codecov-url]: https://codecov.io/github/Cydmi/egg-topsdk?branch=master
-[david-image]: https://img.shields.io/david/eggjs/egg-topsdk.svg?style=flat-square
+[david-image]: https://img.shields.io/david/Cydmi/egg-topsdk.svg?style=flat-square
 [david-url]: https://david-dm.org/Cydmi/egg-topsdk
 [snyk-image]: https://snyk.io/test/npm/egg-topsdk/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/egg-topsdk
@@ -58,7 +58,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/cydmi/egg-topsdk/issues).
+Please open an issue [here](https://github.com/Cydmi/egg-topsdk/issues).
 
 ## License
 
